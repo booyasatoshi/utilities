@@ -1,0 +1,2 @@
+# Hosts reporsting csp violations
+0.0.0.0 csp.withgoogle.com
